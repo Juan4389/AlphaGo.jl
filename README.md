@@ -1,6 +1,6 @@
 # AlphaGo.jl
 AlphaGo.jl is pure Julia implementation of AlphaGo Zero using Flux.jl.
-
+[![Run on Repl.it](https://repl.it/badge/github/tejank10/AlphaGo.jl)](https://repl.it/github/tejank10/AlphaGo.jl)
 ## Installation 
 To install this package simply run
 ```
